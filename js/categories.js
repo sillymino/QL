@@ -18,11 +18,11 @@ var catDescriptions = [
 
 
 var catsText = {
-    "Bad": "<strong>Not Helpful</strong> in answering the question.",
-    "Potential": "<strong>Possibly Helpful</strong> in answering the question.",
-    "Good": "<strong>Appropriate</strong> in answering the question.",
+    "Bad": "<strong>Bad</strong> answer to the question.",
+    "Potential": "<strong>Potential</strong> answer to the question.",
+    "Good": "<strong>Good</strong> answer to the question (correct OR incorrect).",
     "Dialog": "a <strong>Dialog</strong> starting a different conversation.",
-    "Not English": "a <strong>Not English</strong> response.",
+    "Not English": "a <strong>Not English</strong> answer to the question.",
     "Other": "<strong>Other</strong>"
 };
 
